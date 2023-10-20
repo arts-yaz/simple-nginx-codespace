@@ -14,7 +14,7 @@
 3. Codespacesセッションが開始されたら、統合ターミナルを開きます。
 4. 以下のコマンドを実行して、Dockerコンテナを起動します:
    ```bash
-   docker-compose up
+   docker-compose up -d
    ```
 5. Codespacesのポートフォワーディングを確認して、外部からアクセス可能にします。
 
